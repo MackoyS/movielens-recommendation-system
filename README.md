@@ -54,23 +54,11 @@ For our recommendation system modeling we tried both with super users (top 5 use
 ## Cold Start Problem
  
 One issue we tried to solve was the problem of new users and them having recommendations. Our solution to this was to have them input 10+ reviews for movies based on the genres they enjoyed.
- 
-       movieId                title                          genres
-89325    68848  Brothers Bloom, The  Adventure|Comedy|Crime|Romance
-How do you rate this movie on a scale of 1-5, press n if you have not seen :
-3
-       movieId title  genres
-44985     2567  EDtv  Comedy
-How do you rate this movie on a scale of 1-5, press n if you have not seen :
-n
-       movieId title                        genres
-48270     2797   Big  Comedy|Drama|Fantasy|Romance
-How do you rate this movie on a scale of 1-5, press n if you have not seen :
-5
-       movieId          title                  genres
-28386     1265  Groundhog Day  Comedy|Fantasy|Romance
-How do you rate this movie on a scale of 1-5, press n if you have not seen :
-5
+
+`movieId          title                  genres
+`28386     1265  Groundhog Day  Comedy|Fantasy|Romance
+`How do you rate this movie on a scale of 1-5, press n if you have not seen :
+`5
  
 After entering their reviews, we could then present them a list of movies our recommendation system thought they would enjoy.
  
