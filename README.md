@@ -95,10 +95,14 @@ Overall, we recommend that Paramount + focus their efforts on developing a SVD++
 
 ## Future Investigations
 This section goes into a few things we thought were interesting, but unfortunately didn’t have the time to develop or investigate further.
-Creating a user review rewards system that would promote users who don’t review to start reviewing. This could help with getting more non-super user reviewers.
-Developing a plan for popular content acquisition or creation to further reduce customer churn.
-Minimizing any overrepresentations in the recommendation system. The dataset we used did not have any demographic breakdown, so there could be potential for hidden biases in our recommendation system.
-Building a recommendation system exclusively for Paramount’s intellectual properties.
+
+- Creating a user review rewards system that would promote users who don’t review to start reviewing. This could help with getting more non-super user reviewers.
+
+- Developing a plan for popular content acquisition or creation to further reduce customer churn.
+
+- Minimizing any overrepresentations in the recommendation system. The dataset we used did not have any demographic breakdown, so there could be potential for hidden biases in our recommendation system.
+
+- Building a recommendation system exclusively for Paramount’s intellectual properties.
  
 ## For More Information
 Please review our full analysis in our [our Jupyter Notebook](./movie_recc_system
