@@ -66,20 +66,15 @@ How do you rate this movie on a scale of 1-5, press n if you have not seen :
 After entering their reviews, we could then present them a list of movies our recommendation system thought they would enjoy.
  
 Recommendation #  1 :  48    Lamerica (1994)
-Name: title, dtype: object 
  
 Recommendation #  2 :  11    Dracula: Dead and Loving It (1995)
-Name: title, dtype: object 
  
 Recommendation #  3 :  393    Widows' Peak (1994)
-Name: title, dtype: object 
  
 Recommendation #  4 :  329    Paper, The (1994)
-Name: title, dtype: object 
  
 Recommendation #  5 :  476    So I Married an Axe Murderer (1993)
-Name: title, dtype: object
- 
+
 ## Recommendations and conclusions for Paramount +
 Overall, we recommend that Paramount + focus their efforts on developing a SVD++ model, with having new users enter their personal ratings for 10+ movies, and to focus their I.P acquisitions on the top 5 genres that users interact with the most. 
  
