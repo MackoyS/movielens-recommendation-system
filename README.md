@@ -48,7 +48,7 @@ For our recommendation system modeling we tried both with super users (top 5 use
  
 ![graph6](./images/sup_times.png)
  
-![graph7](./images/no_sup.png)
+![graph7](./images/no_sup.PNG)
  
  
 ## Cold Start Problem
