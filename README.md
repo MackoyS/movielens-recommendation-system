@@ -29,26 +29,26 @@ These datasets included features such as userId, movieId, tag, timestamp, title,
 ## EDA
 
 
-![graph1](./images/word_cloud.PNG)
+![graph1](./images/word_cloud.png)
  
 
-![graph2](./images/genre_count.PNG)
+![graph2](./images/genre_count.png)
  
 
-![graph3](./images/rating_count.PNG)
+![graph3](./images/rating_count.png)
 
 
-![graph4](./images/superuser.PNG)
+![graph4](./images/superuser.png)
 
  
-![graph5](./images/year.PNG)
+![graph5](./images/year.png)
  
 ## Recommendation System Modeling
 For our recommendation system modeling we tried both with super users (top 5 users with the most reviews) and without super users. We ended up going with a recommendation system without super users even though we received worse results due to the high impact super users had on everyone's recommendations.
  
-![graph6](./images/sup_times.PNG)
+![graph6](./images/sup_times.png)
  
-![graph7](./images/no_sup.PNG)
+![graph7](./images/no_sup.png)
  
  
 ## Cold Start Problem
