@@ -17,7 +17,7 @@ Focus I.P acquisitions on top 5 genres
 Our final item-based recommendation system was accurate to .86 (RMSE) of the users actual score. This means if the user gave a movie a 3.5, we would’ve predicted their score to be within the range of 2.64 - 4.36.
 
 ## The Notebooks
-The technical lead operated out of the Juana branch, while technical associates assisted through pair programming and their own branches. The main files for this project are in FILENAMEHERE.ipynb
+The technical lead operated out of the Juana branch, while technical associates assisted through pair programming and their own branches. The main files for this project are in movie_recc_system.ipynb
 
 ## Data Cleaning
 The dataset includes 4 csv files inside of the ml-latest-small folder. The 4 datasets inside of this folder are:
