@@ -29,7 +29,7 @@ These datasets included features such as userId, movieId, tag, timestamp, title,
 ## EDA
 
 
-![graph1](./images/word_cloud.png)
+![graph1](./images/world_cloud.png)
  
 
 ![graph2](./images/genre_count.png)
