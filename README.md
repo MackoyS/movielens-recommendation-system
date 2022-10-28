@@ -10,11 +10,11 @@ With how much competition there is in the entertainment streaming industry, it i
 ## Main Findings
 In the teams analysis of the 100,000+ reviews, we derived three main recommendations/insights for Paramount + to keep in mind for their recommendation system:
 
-Item-based collaborative filtering outperforms user-based filtering.
+- Item-based collaborative filtering outperforms user-based filtering.
 
-“Cold Start” solution.
+- “Cold Start” solution.
 
-Focus I.P acquisitions on top 5 genres
+- Focus I.P acquisitions on top 5 genres
 
 Our final item-based recommendation system was accurate to .86 (RMSE) of the users actual score. This means if the user gave a movie a 3.5, we would’ve predicted their score to be within the range of 2.64 - 4.36.
 
