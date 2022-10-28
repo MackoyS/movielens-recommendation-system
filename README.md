@@ -65,19 +65,20 @@ How do you rate this movie on a scale of 1-5, press n if you have not seen :
  
 After entering their reviews, we could then present them a list of movies our recommendation system thought they would enjoy.
  
-Recommendation #  1 :  48    Lamerica (1994)
- 
-Recommendation #  2 :  11    Dracula: Dead and Loving It (1995)
- 
-Recommendation #  3 :  393    Widows' Peak (1994)
- 
-Recommendation #  4 :  329    Paper, The (1994)
- 
-Recommendation #  5 :  476    So I Married an Axe Murderer (1993)
+Recommendation #  1 :  277    Shawshank Redemption, The (1994)
+
+Recommendation #  2 :  2582    Guess Who's Coming to Dinner (1967)
+
+Recommendation #  3 :  4025    Grave of the Fireflies (Hotaru no haka) (1988) 
+
+Recommendation #  4 :  704    Sunset Blvd. (a.k.a. Sunset Boulevard) (1950)
+
+Recommendation #  5 :  937    Seventh Seal, The (Sjunde inseglet, Det) (1957)
+
+Recommendation #  6 :  2963    Legend of Drunken Master, The (Jui kuen II)
 
 ## Recommendations and conclusions for Paramount +
 Overall, we recommend that Paramount + focus their efforts on developing a SVD++ model, with having new users enter their personal ratings for 10+ movies, and to focus their I.P acquisitions on the top 5 genres that users interact with the most. 
- 
 
 ## Future Investigations
 This section goes into a few things we thought were interesting, but unfortunately didn’t have the time to develop or investigate further.
@@ -91,8 +92,7 @@ This section goes into a few things we thought were interesting, but unfortunate
 - Building a recommendation system exclusively for Paramount’s intellectual properties.
  
 ## For More Information
-Please review our full analysis in our [our Jupyter Notebook](./movie_recc_system
-.ipynb) or our [presentation](./presentation.pdf).
+Please review our full analysis in our [our Jupyter Notebook](./movie_recc_system.ipynb) or our [presentation](./presentation.pdf).
  
 For any additional questions, please contact **Juana Tavera | tvrjuana@gmail.com, Brendan Bruno | btbruno20@gmail.com, Mackoy Staloch | mackoy.staloch@gmail.com**
  
