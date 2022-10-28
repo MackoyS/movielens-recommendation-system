@@ -57,27 +57,27 @@ For our recommendation system modeling we tried both with super users (top 5 use
  
 One issue we tried to solve was the problem of new users and them having recommendations. Our solution to this was to have them input 10+ reviews for movies based on the genres they enjoyed.
 
-movieId          title                  genres
+`movieId          title                  genres
 
-28386     1265  Groundhog Day  Comedy|Fantasy|Romance
+`28386     1265  Groundhog Day  Comedy|Fantasy|Romance
 
-How do you rate this movie on a scale of 1-5, press n if you have not seen :
+`How do you rate this movie on a scale of 1-5, press n if you have not seen :
 
-5
+`5
  
 After entering their reviews, we could then present them a list of movies our recommendation system thought they would enjoy.
  
-Recommendation #  1 :  277    Shawshank Redemption, The (1994)
+- Recommendation #  1 :  277    Shawshank Redemption, The (1994)
 
-Recommendation #  2 :  2582    Guess Who's Coming to Dinner (1967)
+- Recommendation #  2 :  2582    Guess Who's Coming to Dinner (1967)
 
-Recommendation #  3 :  4025    Grave of the Fireflies (Hotaru no haka) (1988) 
+- Recommendation #  3 :  4025    Grave of the Fireflies (Hotaru no haka) (1988) 
 
-Recommendation #  4 :  704    Sunset Blvd. (a.k.a. Sunset Boulevard) (1950)
+- Recommendation #  4 :  704    Sunset Blvd. (a.k.a. Sunset Boulevard) (1950)
 
-Recommendation #  5 :  937    Seventh Seal, The (Sjunde inseglet, Det) (1957)
+- Recommendation #  5 :  937    Seventh Seal, The (Sjunde inseglet, Det) (1957)
 
-Recommendation #  6 :  2963    Legend of Drunken Master, The (Jui kuen II)
+- Recommendation #  6 :  2963    Legend of Drunken Master, The (Jui kuen II)
 
 ## Recommendations and conclusions for Paramount +
 Overall, we recommend that Paramount + focus their efforts on developing a SVD++ model, with having new users enter their personal ratings for 10+ movies, and to focus their I.P acquisitions on the top 5 genres that users interact with the most. 
