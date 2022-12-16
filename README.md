@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/110786662/198364908-69a5eff3-6872-47da-8c3e-d29960373d10.png)
 
-The team at Prophetic Insights analyzed over 600 users with over 100,000 reviews for movies ranging in years from 1902 to 2018 to find useful information in developing a recommendation system for Paramount +. With our analysis and modeling, our stakeholder Paramount + can use our data driven insights to help create a better recommendation system for their streaming service.
+The team at Prophetic Insights analyzed over 600 users with over 100,000 reviews for movies ranging in years from 1902 to 2018 to find useful information in developing a recommendation system for Paramount +*. (Paramount + is a mock stakeholder and we are in no way affiliated with them. This project was done for educational purposes.)  With our analysis and modeling, our stakeholder Paramount + can use our data driven insights to help create a better recommendation system for their streaming service.
 
 ## Business Objective
 With how much competition there is in the entertainment streaming industry, it is more imperative than ever that businesses are able to retain their user-base. Streaming services are held to the mercy of creating popular content in order to have new users sign up and to retain current users, which causes an arms race of content creation between the already crowded market. One way to cut costs in order to compete in this arms race is to reduce the customer churn experienced during those lulls in content creation. The team at Prophetic Insights goal is to find data driven insights to help create a better recommendation system for Paramount +.
